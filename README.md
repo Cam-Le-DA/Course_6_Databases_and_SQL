@@ -1,1 +1,1 @@
-# Course-6-
+# Course 6 - Databases and SQL
